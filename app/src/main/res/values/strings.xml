@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">ff</string>
+    <string name="app_name">Fashion Friend</string>
+    <string name="add_clothes">Add Clothes</string>
+    <string name="laundry_timer_reset">Laundry Reset</string>
+    <string name="feedback">Feedback</string>
+    <string name="settings">Settings</string>
+
+    <string name="social">Social</string>
 </resources>
